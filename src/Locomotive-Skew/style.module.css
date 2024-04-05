@@ -20,6 +20,7 @@ body {
 .grid_item img {
   width: 100%;
   object-fit: cover;
+  aspect-ratio: 1;
 }
 .grid_item p {
   margin-top: 15px;
